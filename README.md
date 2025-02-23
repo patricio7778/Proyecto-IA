@@ -19,7 +19,7 @@ This is how you make a list, if you need one:
 
 The platform is used by businesses, public figures, and politicians to monitor their online reputation. Users can set up custom alerts for specific keywords, track sentiment trends, and receive real-time notifications about potential crises. The platform also provides actionable insights to improve public image and manage online presence effectively.
 
-<img src="images/mobile-phone-1917737_1280 (1).jpg" width="300">
+<img src="images/mobile-phone-1917737_1280 (1).jpg" width="600">
 
 This is how you create code examples:
 
