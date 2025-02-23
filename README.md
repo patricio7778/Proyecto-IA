@@ -1,6 +1,6 @@
-# Project Title
+# AI-Powered Reputation and Social Media Monitoring Platform
 
-AI-Powered Reputation and Social Media Monitoring Platform
+Final Project for the Building AI Course
 
 ## Summary
 
