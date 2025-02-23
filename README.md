@@ -19,12 +19,7 @@ This is how you make a list, if you need one:
 
 The platform is used by businesses, public figures, and politicians to monitor their online reputation. Users can set up custom alerts for specific keywords, track sentiment trends, and receive real-time notifications about potential crises. The platform also provides actionable insights to improve public image and manage online presence effectively.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Social Media Monitoring](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="Proyecto-IA/images/mobile-phone-1917737_1280 (1).jpg" width="300">
 
 This is how you create code examples:
 
