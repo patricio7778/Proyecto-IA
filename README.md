@@ -19,7 +19,7 @@ Identified Problems:
 
 The platform is used by businesses, public figures, and politicians to monitor their online reputation. Users can set up custom alerts for specific keywords, track sentiment trends, and receive real-time notifications about potential crises. The platform also provides actionable insights to improve public image and manage online presence effectively.
 
-<img src="images/mobile-phone-1917737_1280 (1).jpg" width="600">
+<img src="https://github.com/patricio7778/Proyecto-IA/blob/main/images/mobile-phone-1917737_1280%20(1).jpg" width="600">
 
 ## Data sources and AI methods
 
