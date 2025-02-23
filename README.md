@@ -10,7 +10,7 @@ This project aims to develop an AI-powered platform that tracks mentions on soci
 
 In today's digital age, online reputation is crucial for businesses, public figures, and politicians. Negative mentions or misinformation can spread rapidly, leading to reputational damage. This platform addresses the need for real-time monitoring and analysis of online mentions to help users proactively manage their image and respond to potential crises.
 
-This is how you make a list, if you need one:
+Identified Problems:
 * Problem 1: Rapid spread of misinformation on social media.
 * Problem 2: Difficulty in tracking and analyzing large volumes of online mentions.
 * Problem 3: Lack of real-time alerts for potential reputation crises.
