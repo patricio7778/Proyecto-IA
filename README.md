@@ -21,19 +21,6 @@ The platform is used by businesses, public figures, and politicians to monitor t
 
 <img src="images/mobile-phone-1917737_1280 (1).jpg" width="600">
 
-This is how you create code examples:
-
-def main():
-keywords = ['brand_name', 'public_figure', 'politician']
-mentions = track_mentions(keywords)
-sentiment = analyze_sentiment(mentions)
-alerts = generate_alerts(sentiment)
-
-for alert in alerts:
-print(f"Alert: {alert['message']} at {alert['time']}")
-
-main()
-
 ## Data sources and AI methods
 
 The data for this platform comes from various online sources, including social media platforms (Twitter, Facebook, Instagram), forums, blogs, and news sites. The platform uses APIs like the [Twitter API](https://developer.twitter.com/en/docs) to collect real-time data.
